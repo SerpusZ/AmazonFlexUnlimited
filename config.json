@@ -7,13 +7,21 @@
   "desiredWarehouses": [],
   "desiredStartTime": "00:00",
   "desiredEndTime": "23:30",
-  "desiredWeekdays": ["MON", "tue", "Wed", "Thur", "Fri", "Sat", "Sunday"],
+  "desiredWeekdays": [
+    "MON",
+    "tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+    "Sunday"
+  ],
   "retryLimit": 10,
   "refreshInterval": 0.2,
   "twilioAcctSid": "ACf037c4ccf1dbc93280d6ef7f37776908",
   "twilioAuthToken": "f328a94220fd3c131b250960aeeba02d",
   "twilioFromNumber": "+13159152058",
   "twilioToNumber": "+12547808646",
-  "refreshToken": "",
-  "accessToken": ""
+  "refreshToken": "Atnr|EwICILGUR_oM7ltd1DPOWhBmtOlz7YcAJy63a3DxLbtOn3-wI-OqZA4fvbTKPotkgbV6OHWoAwDOoe9JpoZUMngngFu0uUGuRBgBgNgtRQcbmm3w53K-nSFcVbkROv2Ql7bL-Xv_aFyD6MO3dUBaak4E1--miweszUfwkJeAAVetJQysVBpPksVG8N9rHto4lQku4JWVKUTWKDqD2YriR2Av0queXAlT1qVlIdotzkrC_Ir5KyyatLcKhfi5610QaG57wsMZ5eqxHhPcSoq4xtH925H2",
+  "accessToken": "Atna|EwICIPH3vX6HPxMz8P_dnvx9Tc_sA7ki1-aXJf1oEMVIKwhcb6LNSmz0Sv8N8jYGAQAQryYCbCtq1zitFzK2eE4fKXCTGJWasfYicWi9g6i0btsrH9pzqmFWBKVd8uN7Mn6fGjmcI-wNCn4lgh6uPudtotGwLOOqcDrPQRhqz3OZxnibh9BiWLr_p4004WPkcZEmAqnaQjQD0_TizndJWmnyUIFRokMqTdoPlPwf3t9P69BZNbpS5TiT4Xl7G4ZVWihp2GKH2b3m6N4Qhenm6gKcuIYF21m1npAHoLcEE04ePfO4kg"
 }
