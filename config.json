@@ -10,10 +10,10 @@
   "desiredWeekdays": ["MON", "tue", "Wed", "Thur", "Fri", "Sat", "Sunday"],
   "retryLimit": 10,
   "refreshInterval": 0.2,
-  "twilioAcctSid": "",
-  "twilioAuthToken": "",
-  "twilioFromNumber": "",
-  "twilioToNumber": "",
+  "twilioAcctSid": "ACf037c4ccf1dbc93280d6ef7f37776908",
+  "twilioAuthToken": "f328a94220fd3c131b250960aeeba02d",
+  "twilioFromNumber": "+13159152058",
+  "twilioToNumber": "+12547808646",
   "refreshToken": "",
   "accessToken": ""
 }
